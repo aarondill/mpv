@@ -1,0 +1,3 @@
+[submodule "deps/ModernX"]
+	path = deps/ModernX
+	url = https://github.com/cyl0/ModernX
