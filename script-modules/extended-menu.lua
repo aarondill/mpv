@@ -1,0 +1,1 @@
+../deps/mpv-scripts/script-modules/extended-menu.lua
