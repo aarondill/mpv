@@ -1,6 +1,0 @@
-[submodule "deps/ModernX"]
-	path = deps/ModernX
-	url = https://github.com/cyl0/ModernX
-[submodule "deps/mpv-scripts"]
-	path = deps/mpv-scripts
-	url = https://github.com/Seme4eg/mpv-scripts
