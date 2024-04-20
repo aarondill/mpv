@@ -1,0 +1,3 @@
+[submodule "deps/thumbfast"]
+	path = deps/thumbfast
+	url = https://github.com/po5/thumbfast
