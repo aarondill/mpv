@@ -1,3 +1,6 @@
 [submodule "deps/thumbfast"]
 	path = deps/thumbfast
 	url = https://github.com/po5/thumbfast
+[submodule "deps/memo"]
+	path = deps/memo
+	url = https://github.com/po5/memo
